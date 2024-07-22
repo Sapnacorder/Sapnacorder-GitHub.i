@@ -1,2 +1,2 @@
-# Sapnacorder-GitHub.i
+# Sapnacoder-GitHub.i
 This is my first GitHub website
